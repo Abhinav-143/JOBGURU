@@ -1,5 +1,3 @@
-![Uploading image.png…]()
-
 # JobGuru
 Developed using React.js for the frontend to ensure a responsive and interactive user experience.
 Styled with CSS for a polished and intuitive user interface.
