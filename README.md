@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/45eae267-aebe-43a4-ad64-a9e4e3d72f76)
+
+
 # JobGuru
 Developed using React.js for the frontend to ensure a responsive and interactive user experience.
 Styled with CSS for a polished and intuitive user interface.
