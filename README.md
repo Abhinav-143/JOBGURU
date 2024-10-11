@@ -1,9 +1,9 @@
+![Uploading image.png…]()
+
 # JobGuru
 Developed using React.js for the frontend to ensure a responsive and interactive user experience.
 Styled with CSS for a polished and intuitive user interface.
 Utilizes MongoDB Atlas as the database backend for storing dynamic job listings and user data securely.
-
-![Uploading Screenshot 2024-10-11 130719.png…]()
 
 **Unique Functionalities:**
 
